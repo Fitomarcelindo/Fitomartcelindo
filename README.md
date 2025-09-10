@@ -11,7 +11,7 @@ Green Mustrad Leaf Detection Application
  
 - 📚 Contributor in publications & research (AI, Machine Learning, Mobile Development)  
 
-📌 Portfolio Website: [fitomarcel.com](https://fitomarcel.com)  
+📌 Portfolio Website: [fitomarcel.com](https://fitomarcelindo.github.io/Portofolio_2025/)  
 📌 LinkedIn: [linkedin.com/in/fitto-martcellindo](https://www.linkedin.com/in/fitto-martcellindo/) 
  
 
